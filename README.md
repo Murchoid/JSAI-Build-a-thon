@@ -1,3 +1,5 @@
+
+
 # 🤖 Quest: I want to build an AI Agent
 
 > To reset your progress and select a different quest, click this button:
@@ -497,3 +499,5 @@ Here are some additional resources to help you learn more about building AI agen
 - [Build Apps and Agents with Visual Studio Code and Azure blog](https://devblogs.microsoft.com/blog/build-apps-and-agents-with-visual-studio-code-and-azure)
 - [📹 DEMFP781: From Prompt to Product: Build an AI Agent That Generates UI](https://build.microsoft.com/en-US/sessions/DEMFP781?source=sessions)
 - [Build with the AI Foundry JavaScript SDK](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/sdk-overview?pivots=programming-language-javascript)
+
+
