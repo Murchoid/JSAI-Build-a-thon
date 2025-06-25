@@ -1,0 +1,5 @@
+type: bing_grounding
+id: bing_search
+options:
+  tool_connections:
+    - /subscriptions/fc8037d6-0263-4608-b90f-7b157d2e38dc/resourceGroups/rg-NewAgent/providers/Microsoft.MachineLearningServices/workspaces/NewAgent/connections/new-agent
