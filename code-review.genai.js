@@ -1,4 +1,8 @@
 const changes = await git.diff({ staged: true });
+import dotenv from 'dotenv';
+dotenv.config();
+const key = process.env.GITHUB_TOKEN;
+
 
 defDiff("CODE_CHANGES", changes);
 
